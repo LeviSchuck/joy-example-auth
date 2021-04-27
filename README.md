@@ -9,3 +9,9 @@ And you need to set up the database by migrating the sql in
 ```
 joy migrate
 ```
+
+Finally to run the application
+
+```
+joy server
+```
